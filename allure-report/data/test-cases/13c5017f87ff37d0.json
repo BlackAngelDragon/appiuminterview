@@ -1,0 +1,62 @@
+{
+  "uid" : "13c5017f87ff37d0",
+  "name" : "should display 4 options in the combos especiales",
+  "fullName" : "menu Suit.should display 4 options in the combos especiales",
+  "historyId" : "b9a057b3459a90359ff76e54f6f40957",
+  "time" : {
+    "start" : 1656542335952,
+    "stop" : 1656542335973,
+    "duration" : 21
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "menu Suit"
+  }, {
+    "name" : "testClass",
+    "value" : "menu Suit"
+  }, {
+    "name" : "testMethod",
+    "value" : "should display 4 options in the combos especiales"
+  }, {
+    "name" : "package",
+    "value" : "menu Suit"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "emulator-5554-11"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "13c5017f87ff37d0.json",
+  "parameterValues" : [ "emulator-5554-11" ]
+}

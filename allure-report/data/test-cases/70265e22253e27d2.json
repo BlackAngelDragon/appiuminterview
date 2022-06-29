@@ -1,0 +1,86 @@
+{
+  "uid" : "70265e22253e27d2",
+  "name" : "should remain loged if correct login",
+  "fullName" : "Login Suit.should remain loged if correct login",
+  "historyId" : "6e68f95b2bd09bf0cd81e294698e41cd",
+  "time" : {
+    "start" : 1656543398558,
+    "stop" : 1656543398564,
+    "duration" : 6
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Login Suit"
+  }, {
+    "name" : "testClass",
+    "value" : "Login Suit"
+  }, {
+    "name" : "testMethod",
+    "value" : "should remain loged if correct login"
+  }, {
+    "name" : "package",
+    "value" : "Login Suit"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "emulator-5554-11"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a2052b1dfae5b252",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656542330074,
+        "stop" : 1656542330078,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "ac1df53d32efa38a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656541595509,
+        "stop" : 1656541595513,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "a5e758aa6d2d026",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656540811604,
+        "stop" : 1656540811609,
+        "duration" : 5
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "70265e22253e27d2.json",
+  "parameterValues" : [ "emulator-5554-11" ]
+}

@@ -1,0 +1,60 @@
+{
+  "uid" : "d9ddc3c1ff8d895c",
+  "name" : "should login into the app",
+  "fullName" : "Login Suit.should login into the app",
+  "historyId" : "70f071bcc5f672fcdf2f093c7d6fe963",
+  "time" : {
+    "start" : 1656540811550,
+    "stop" : 1656540811570,
+    "duration" : 20
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Login Suit"
+  }, {
+    "name" : "testClass",
+    "value" : "Login Suit"
+  }, {
+    "name" : "testMethod",
+    "value" : "should login into the app"
+  }, {
+    "name" : "package",
+    "value" : "Login Suit"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "emulator-5554-11"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d9ddc3c1ff8d895c.json",
+  "parameterValues" : [ "emulator-5554-11" ]
+}

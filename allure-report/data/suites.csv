@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Wed Jun 29 17:56:38 CDT 2022","Wed Jun 29 17:56:38 CDT 2022","6","","Login Suit","","Login Suit","should keep user info when landcape mode","should keep user info when landcape mode",""
+"passed","Wed Jun 29 17:56:38 CDT 2022","Wed Jun 29 17:56:38 CDT 2022","6","","Login Suit","","Login Suit","should remain loged if correct login","should remain loged if correct login",""
+"passed","Wed Jun 29 17:56:38 CDT 2022","Wed Jun 29 17:56:38 CDT 2022","20","","Login Suit","","Login Suit","should login into the app","should login into the app",""
+"passed","Wed Jun 29 17:38:55 CDT 2022","Wed Jun 29 17:38:55 CDT 2022","21","","menu Suit","","menu Suit","should display 4 options in the combos especiales","should display 4 options in the combos especiales",""
+"broken","Wed Jun 29 17:56:38 CDT 2022","Wed Jun 29 17:56:38 CDT 2022","10","","Login Suit","","Login Suit","should display diferent layout when devices orientation is changed","should display diferent layout when devices orientation is changed",""
+"passed","Wed Jun 29 17:56:38 CDT 2022","Wed Jun 29 17:56:38 CDT 2022","14","","Login Suit","","Login Suit","should display a message when incorrect credentials","should display a message when incorrect credentials",""
+"passed","Wed Jun 29 17:38:55 CDT 2022","Wed Jun 29 17:38:55 CDT 2022","17","","menu Suit","","menu Suit","should display 4 categories","should display 4 categories",""

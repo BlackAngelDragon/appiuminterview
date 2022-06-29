@@ -1,0 +1,126 @@
+{
+  "uid" : "82589a71597ecef3",
+  "name" : "should login into the app",
+  "fullName" : "Login Suit.should login into the app",
+  "historyId" : "70f071bcc5f672fcdf2f093c7d6fe963",
+  "time" : {
+    "start" : 1656543398502,
+    "stop" : 1656543398522,
+    "duration" : 20
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 8,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Login Suit"
+  }, {
+    "name" : "testClass",
+    "value" : "Login Suit"
+  }, {
+    "name" : "testMethod",
+    "value" : "should login into the app"
+  }, {
+    "name" : "package",
+    "value" : "Login Suit"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "emulator-5554-11"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "999e391dda1055b4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656542330018,
+        "stop" : 1656542330040,
+        "duration" : 22
+      }
+    }, {
+      "uid" : "9227814e817a5939",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656541595458,
+        "stop" : 1656541595476,
+        "duration" : 18
+      }
+    }, {
+      "uid" : "d9ddc3c1ff8d895c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656540811550,
+        "stop" : 1656540811570,
+        "duration" : 20
+      }
+    }, {
+      "uid" : "3ab74f0d4974f7e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656540125486,
+        "stop" : 1656540125509,
+        "duration" : 23
+      }
+    }, {
+      "uid" : "5e45a91026562a25",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656539688226,
+        "stop" : 1656539688257,
+        "duration" : 31
+      }
+    }, {
+      "uid" : "95f172d689554a94",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656539056237,
+        "stop" : 1656539056258,
+        "duration" : 21
+      }
+    }, {
+      "uid" : "32dc21aeda72cc37",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656538892270,
+        "stop" : 1656538892296,
+        "duration" : 26
+      }
+    }, {
+      "uid" : "3507ee61bf841461",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656538815730,
+        "stop" : 1656538815751,
+        "duration" : 21
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "82589a71597ecef3.json",
+  "parameterValues" : [ "emulator-5554-11" ]
+}

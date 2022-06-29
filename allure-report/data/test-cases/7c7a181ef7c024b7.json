@@ -1,0 +1,60 @@
+{
+  "uid" : "7c7a181ef7c024b7",
+  "name" : "should display 4 categories",
+  "fullName" : "menu Suit.should display 4 categories",
+  "historyId" : "4cd1bad58646d9afb07a80f3fd43f4d2",
+  "time" : {
+    "start" : 1656541601412,
+    "stop" : 1656541601421,
+    "duration" : 9
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "menu Suit"
+  }, {
+    "name" : "testClass",
+    "value" : "menu Suit"
+  }, {
+    "name" : "testMethod",
+    "value" : "should display 4 categories"
+  }, {
+    "name" : "package",
+    "value" : "menu Suit"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "emulator-5554-11"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7c7a181ef7c024b7.json",
+  "parameterValues" : [ "emulator-5554-11" ]
+}

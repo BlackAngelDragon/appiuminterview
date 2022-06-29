@@ -1,0 +1,47 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "browser.orientation is not a function",
+      "children" : [ {
+        "name" : "should display diferent layout when devices orientation is changed",
+        "uid" : "bbb89b8f15488ba3",
+        "parentUid" : "f78f5d7f71c4c270da0eebf770eb529e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1656543398527,
+          "stop" : 1656543398537,
+          "duration" : 10
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 5,
+        "retriesStatusChange" : false,
+        "parameters" : [ "emulator-5554-11" ]
+      }, {
+        "name" : "should keep user info when landcape mode",
+        "uid" : "49d45fc9fc252b98",
+        "parentUid" : "f78f5d7f71c4c270da0eebf770eb529e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1656543398566,
+          "stop" : 1656543398572,
+          "duration" : 6
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : false,
+        "parameters" : [ "emulator-5554-11" ]
+      } ],
+      "uid" : "f78f5d7f71c4c270da0eebf770eb529e"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

@@ -1,0 +1,42 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1656539688225' stop='1656539688284'>
+    <name>Login Suit</name>
+    <title>Login Suit</title>
+    <test-cases>
+        <test-case start='1656539688226' status='passed' stop='1656539688257'>
+            <name>should login into the app</name>
+            <title>should login into the app</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='emulator-5554-11'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1656539688267' status='broken' stop='1656539688281'>
+            <name>should display diferent layout when devices orientation is changed</name>
+            <title>should display diferent layout when devices orientation is changed</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='device' value='emulator-5554-11'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>browser.orientation is not a function</message>
+                <stack-trace>TypeError: browser.orientation is not a function
+                    at Context.&lt;anonymous> (C:\Users\perro\Documents\proyects\appium\src\tests\/login.js:15:17)
+                    at Context.executeAsync (C:\Users\perro\Documents\proyects\appium\node_modules\@wdio\utils\build\shim.js:333:27)
+                    at Context.testFrameworkFnWrapper (C:\Users\perro\Documents\proyects\appium\node_modules\@wdio\utils\build\test-framework\testFnWrapper.js:51:32)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

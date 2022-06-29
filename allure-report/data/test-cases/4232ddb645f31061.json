@@ -1,0 +1,86 @@
+{
+  "uid" : "4232ddb645f31061",
+  "name" : "should display a message when incorrect credentials",
+  "fullName" : "Login Suit.should display a message when incorrect credentials",
+  "historyId" : "5388aca2c885c46b0185735d2b54a367",
+  "time" : {
+    "start" : 1656543398539,
+    "stop" : 1656543398553,
+    "duration" : 14
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Login Suit"
+  }, {
+    "name" : "testClass",
+    "value" : "Login Suit"
+  }, {
+    "name" : "testMethod",
+    "value" : "should display a message when incorrect credentials"
+  }, {
+    "name" : "package",
+    "value" : "Login Suit"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "emulator-5554-11"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "827fb8f065c821bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656542330057,
+        "stop" : 1656542330069,
+        "duration" : 12
+      }
+    }, {
+      "uid" : "da7a717762d5bc07",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656541595493,
+        "stop" : 1656541595505,
+        "duration" : 12
+      }
+    }, {
+      "uid" : "346ad88ade11d5a5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1656540811586,
+        "stop" : 1656540811599,
+        "duration" : 13
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4232ddb645f31061.json",
+  "parameterValues" : [ "emulator-5554-11" ]
+}

@@ -1,0 +1,60 @@
+{
+  "uid" : "a5e758aa6d2d026",
+  "name" : "should remain loged if correct login",
+  "fullName" : "Login Suit.should remain loged if correct login",
+  "historyId" : "6e68f95b2bd09bf0cd81e294698e41cd",
+  "time" : {
+    "start" : 1656540811604,
+    "stop" : 1656540811609,
+    "duration" : 5
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Login Suit"
+  }, {
+    "name" : "testClass",
+    "value" : "Login Suit"
+  }, {
+    "name" : "testMethod",
+    "value" : "should remain loged if correct login"
+  }, {
+    "name" : "package",
+    "value" : "Login Suit"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "emulator-5554-11"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a5e758aa6d2d026.json",
+  "parameterValues" : [ "emulator-5554-11" ]
+}

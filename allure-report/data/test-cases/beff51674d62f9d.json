@@ -1,0 +1,62 @@
+{
+  "uid" : "beff51674d62f9d",
+  "name" : "should display diferent layout when devices orientation is changed",
+  "fullName" : "Login Suit.should display diferent layout when devices orientation is changed",
+  "historyId" : "66b1bb7bbc942fcff42c4607d7364cbb",
+  "time" : {
+    "start" : 1656542330045,
+    "stop" : 1656542330055,
+    "duration" : 10
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "browser.orientation is not a function",
+  "statusTrace" : "TypeError: browser.orientation is not a function\n                    at Context.<anonymous> (C:\\Users\\perro\\Documents\\proyects\\appium\\src\\tests\\/login.js:14:17)\n                    at Context.executeAsync (C:\\Users\\perro\\Documents\\proyects\\appium\\node_modules\\@wdio\\utils\\build\\shim.js:333:27)\n                    at Context.testFrameworkFnWrapper (C:\\Users\\perro\\Documents\\proyects\\appium\\node_modules\\@wdio\\utils\\build\\test-framework\\testFnWrapper.js:51:32)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Login Suit"
+  }, {
+    "name" : "testClass",
+    "value" : "Login Suit"
+  }, {
+    "name" : "testMethod",
+    "value" : "should display diferent layout when devices orientation is changed"
+  }, {
+    "name" : "package",
+    "value" : "Login Suit"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "emulator-5554-11"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "beff51674d62f9d.json",
+  "parameterValues" : [ "emulator-5554-11" ]
+}

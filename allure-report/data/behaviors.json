@@ -1,0 +1,124 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "should display 4 categories",
+    "uid" : "5d05c427295eaa26",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1656542335929,
+      "stop" : 1656542335946,
+      "duration" : 17
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : false,
+    "parameters" : [ "emulator-5554-11" ]
+  }, {
+    "name" : "should display 4 options in the combos especiales",
+    "uid" : "13c5017f87ff37d0",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1656542335952,
+      "stop" : 1656542335973,
+      "duration" : 21
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "emulator-5554-11" ]
+  }, {
+    "name" : "should login into the app",
+    "uid" : "82589a71597ecef3",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1656543398502,
+      "stop" : 1656543398522,
+      "duration" : 20
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 8,
+    "retriesStatusChange" : false,
+    "parameters" : [ "emulator-5554-11" ]
+  }, {
+    "name" : "should display diferent layout when devices orientation is changed",
+    "uid" : "bbb89b8f15488ba3",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1656543398527,
+      "stop" : 1656543398537,
+      "duration" : 10
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 5,
+    "retriesStatusChange" : false,
+    "parameters" : [ "emulator-5554-11" ]
+  }, {
+    "name" : "should display a message when incorrect credentials",
+    "uid" : "4232ddb645f31061",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1656543398539,
+      "stop" : 1656543398553,
+      "duration" : 14
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 3,
+    "retriesStatusChange" : false,
+    "parameters" : [ "emulator-5554-11" ]
+  }, {
+    "name" : "should remain loged if correct login",
+    "uid" : "70265e22253e27d2",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1656543398558,
+      "stop" : 1656543398564,
+      "duration" : 6
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 3,
+    "retriesStatusChange" : false,
+    "parameters" : [ "emulator-5554-11" ]
+  }, {
+    "name" : "should keep user info when landcape mode",
+    "uid" : "49d45fc9fc252b98",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1656543398566,
+      "stop" : 1656543398572,
+      "duration" : 6
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 2,
+    "retriesStatusChange" : false,
+    "parameters" : [ "emulator-5554-11" ]
+  } ]
+}

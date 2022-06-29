@@ -1,0 +1,86 @@
+{
+  "uid" : "49d45fc9fc252b98",
+  "name" : "should keep user info when landcape mode",
+  "fullName" : "Login Suit.should keep user info when landcape mode",
+  "historyId" : "377f58130760eca8d66ec35d40ef3c9e",
+  "time" : {
+    "start" : 1656543398566,
+    "stop" : 1656543398572,
+    "duration" : 6
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "browser.orientation is not a function",
+  "statusTrace" : "TypeError: browser.orientation is not a function\n                    at Context.<anonymous> (C:\\Users\\perro\\Documents\\proyects\\appium\\src\\tests\\/login.js:34:17)\n                    at Context.executeAsync (C:\\Users\\perro\\Documents\\proyects\\appium\\node_modules\\@wdio\\utils\\build\\shim.js:333:27)\n                    at Context.testFrameworkFnWrapper (C:\\Users\\perro\\Documents\\proyects\\appium\\node_modules\\@wdio\\utils\\build\\test-framework\\testFnWrapper.js:51:32)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Login Suit"
+  }, {
+    "name" : "testClass",
+    "value" : "Login Suit"
+  }, {
+    "name" : "testMethod",
+    "value" : "should keep user info when landcape mode"
+  }, {
+    "name" : "package",
+    "value" : "Login Suit"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "emulator-5554-11"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c8e345de8c0722e4",
+      "status" : "broken",
+      "statusDetails" : "browser.orientation is not a function",
+      "time" : {
+        "start" : 1656542330080,
+        "stop" : 1656542330085,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "36d08bdb0a04f355",
+      "status" : "broken",
+      "statusDetails" : "browser.orientation is not a function",
+      "time" : {
+        "start" : 1656541595514,
+        "stop" : 1656541595521,
+        "duration" : 7
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "49d45fc9fc252b98.json",
+  "parameterValues" : [ "emulator-5554-11" ]
+}
